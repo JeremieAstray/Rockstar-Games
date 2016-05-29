@@ -1,17 +1,17 @@
-[2016-05-28 20:21:08.244] [DISPLAY] Using DPI 96
-[2016-05-28 20:21:08.405] [DISPLAY] File version 10000:2a60001 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
-[2016-05-28 20:21:08.561] [DISPLAY] File version 10001:70008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
-[2016-05-28 20:21:08.692] [DISPLAY] File version 10000:1f90002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
-[2016-05-28 20:21:08.734] [DISPLAY] Version: |1.0.678.1|1.1.7.8|1.0.505.2|FSP
-[2016-05-28 20:21:09.243] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
-[2016-05-28 20:21:09.461] [DISPLAY] Social Club initializing...
-[2016-05-28 20:21:11.291] [DISPLAY] Attempting to create device...
-[2016-05-28 20:21:11.310] [DISPLAY] Attempting to initialise DX9 COM object...
-[2016-05-28 20:21:11.910] [DISPLAY] Window size: 690 x 496
-[2016-05-28 20:21:11.945] [DISPLAY] Successfully created DX Device!
-[2016-05-28 20:21:39.620] [DISPLAY] Geo: CN
-[2016-05-28 20:21:55.423] [DISPLAY] Launching game...
-[2016-05-28 20:21:55.438] [DISPLAY] (path: D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
-[2016-05-29 02:39:46.491] [ ERROR ] GameComm: ReadFile failed.
-[2016-05-29 02:39:50.854] [DISPLAY] Game exited with code 0x0
-[2016-05-29 02:39:52.165] [DISPLAY] Uninitializing.
+[2016-05-29 13:31:31.483] [DISPLAY] Using DPI 96
+[2016-05-29 13:31:31.619] [DISPLAY] File version 10000:2a60001 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2016-05-29 13:31:31.754] [DISPLAY] File version 10001:70008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2016-05-29 13:31:31.882] [DISPLAY] File version 10000:1f90002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
+[2016-05-29 13:31:31.912] [DISPLAY] Version: |1.0.678.1|1.1.7.8|1.0.505.2|FSP
+[2016-05-29 13:31:32.405] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2016-05-29 13:31:32.636] [DISPLAY] Social Club initializing...
+[2016-05-29 13:31:34.515] [DISPLAY] Attempting to create device...
+[2016-05-29 13:31:34.533] [DISPLAY] Attempting to initialise DX9 COM object...
+[2016-05-29 13:31:35.151] [DISPLAY] Window size: 690 x 496
+[2016-05-29 13:31:35.193] [DISPLAY] Successfully created DX Device!
+[2016-05-29 13:31:58.727] [DISPLAY] Geo: CN
+[2016-05-29 13:32:06.845] [DISPLAY] Launching game...
+[2016-05-29 13:32:06.864] [DISPLAY] (path: D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
+[2016-05-29 19:02:21.278] [ ERROR ] GameComm: ReadFile failed.
+[2016-05-29 19:02:25.572] [DISPLAY] Game exited with code 0x0
+[2016-05-29 19:02:26.039] [DISPLAY] Uninitializing.
