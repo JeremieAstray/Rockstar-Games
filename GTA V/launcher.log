@@ -16,3 +16,6 @@
 [2016-07-23 22:40:49.994] [DISPLAY] Geo: CN
 [2016-07-23 22:41:04.893] [DISPLAY] Launching game...
 [2016-07-23 22:41:04.911] [DISPLAY] (path: D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
+[2016-07-23 23:46:08.369] [ ERROR ] GameComm: ReadFile failed.
+[2016-07-23 23:46:12.288] [DISPLAY] Game exited with code 0x0
+[2016-07-23 23:46:14.950] [DISPLAY] Uninitializing.
