@@ -1,21 +1,25 @@
-[2016-07-23 22:40:36.476] [DISPLAY] Using DPI 96
-[2016-07-23 22:40:36.586] [DISPLAY] File version 10000:3170002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
-[2016-07-23 22:40:36.679] [DISPLAY] File version 10001:90006 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
-[2016-07-23 22:40:36.757] [DISPLAY] File version 10000:3170002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
-[2016-07-23 22:40:36.789] [DISPLAY] Version: |1.0.791.2|1.1.9.6|1.0.791.2|FSP
-[2016-07-23 22:40:37.273] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
-[2016-07-23 22:40:38.476] [DISPLAY] Steam initialized successfully
-[2016-07-23 22:40:38.476] [DISPLAY] 	Steam id: 76561198136646719
-[2016-07-23 22:40:38.492] [DISPLAY] 	Steam offline: FALSE
-[2016-07-23 22:40:38.508] [DISPLAY] 	Steam persona: 枯叶_听海
-[2016-07-23 22:40:38.554] [DISPLAY] Social Club initializing...
-[2016-07-23 22:40:39.633] [DISPLAY] Attempting to create device...
-[2016-07-23 22:40:39.648] [DISPLAY] Attempting to initialise DX9 COM object...
-[2016-07-23 22:40:40.240] [DISPLAY] Window size: 690 x 496
-[2016-07-23 22:40:40.287] [DISPLAY] Successfully created DX Device!
-[2016-07-23 22:40:49.994] [DISPLAY] Geo: CN
-[2016-07-23 22:41:04.893] [DISPLAY] Launching game...
-[2016-07-23 22:41:04.911] [DISPLAY] (path: D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
-[2016-07-23 23:46:08.369] [ ERROR ] GameComm: ReadFile failed.
-[2016-07-23 23:46:12.288] [DISPLAY] Game exited with code 0x0
-[2016-07-23 23:46:14.950] [DISPLAY] Uninitializing.
+[2016-08-14 17:53:24.633] [DISPLAY] Using DPI 96
+[2016-08-14 17:53:25.570] [DISPLAY] File version 10000:3170002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe)
+[2016-08-14 17:53:27.024] [DISPLAY] File version 10001:90006 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2016-08-14 17:53:27.102] [DISPLAY] File version 10000:3170002 (for D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe)
+[2016-08-14 17:53:27.117] [DISPLAY] Version: |1.0.791.2|1.1.9.6|1.0.791.2|FSP
+[2016-08-14 17:53:27.617] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2016-08-14 17:53:28.774] [DISPLAY] Steam initialized successfully
+[2016-08-14 17:53:28.774] [DISPLAY] 	Steam id: 76561198136646719
+[2016-08-14 17:53:28.805] [DISPLAY] 	Steam offline: FALSE
+[2016-08-14 17:53:28.821] [DISPLAY] 	Steam persona: 枯叶_听海
+[2016-08-14 17:53:28.867] [DISPLAY] Social Club initializing...
+[2016-08-14 17:53:30.196] [DISPLAY] Attempting to create device...
+[2016-08-14 17:53:30.211] [DISPLAY] Attempting to initialise DX9 COM object...
+[2016-08-14 17:53:30.788] [DISPLAY] Window size: 690 x 496
+[2016-08-14 17:53:30.835] [DISPLAY] Successfully created DX Device!
+[2016-08-14 17:53:54.408] [DISPLAY] Geo: CN
+[2016-08-14 17:54:06.264] [DISPLAY] Launching game...
+[2016-08-14 17:54:06.280] [DISPLAY] (path: D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe cmdline: "D:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe")
+[2016-08-14 17:54:17.788] [ ERROR ] HRESULT failed when doing m_device->Present(NULL, NULL, NULL, NULL) : 88760868
+[2016-08-14 17:54:17.790] [WARNING] Device lost.
+[2016-08-14 17:54:17.790] [WARNING] Resetting device...
+[2016-08-14 17:54:17.991] [DISPLAY] Reset succeeded.
+[2016-08-14 19:21:19.538] [ ERROR ] GameComm: ReadFile failed.
+[2016-08-14 19:21:23.727] [DISPLAY] Game exited with code 0x0
+[2016-08-14 19:21:26.398] [DISPLAY] Uninitializing.
